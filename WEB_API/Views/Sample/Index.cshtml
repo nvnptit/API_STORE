@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@Scripts.Render("~/bundles/jquery")
+<h2>Danh sách loại sp load từ server</h2>
+<div id="div1">
+</div>
+<script>
+
+    $(function () {
+        $.get('/api/category', function (data) {
+            data.forEach(function (item) {
+                $('#div1').append("<p>" + item.id + "-" + item.name + "</p>");
+            });
+        });
+    });
+</script>
+

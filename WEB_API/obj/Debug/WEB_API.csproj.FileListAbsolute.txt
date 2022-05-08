@@ -1,0 +1,589 @@
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\WEB_API.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Net.Http.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Net.Sockets.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Antlr3.Runtime.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Web.Infrastructure.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Swashbuckle.Core.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Helpers.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Mvc.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Optimization.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Razor.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.WebPages.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.WebPages.Razor.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\WebActivatorEx.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\WebGrease.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\EntityFramework.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\EntityFramework.SqlServer.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Helpers.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Mvc.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Optimization.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.Razor.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.WebPages.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Web.WebPages.Razor.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Antlr3.Runtime.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.AssemblyReference.cache
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Common.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Interfaces.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.OrmLite.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.OrmLite.SqlServer.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Text.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Buffers.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Memory.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Numerics.Vectors.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.Tasks.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Common.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.OrmLite.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.OrmLite.SqlServer.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Text.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Buffers.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Memory.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Numerics.Vectors.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.Tasks.Extensions.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Client.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Client.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\WEB_API.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Net.Http.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Net.Sockets.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Antlr3.Runtime.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.Web.Infrastructure.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Client.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Common.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Interfaces.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.OrmLite.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.OrmLite.SqlServer.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Text.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Swashbuckle.Core.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Buffers.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Memory.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Numerics.Vectors.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Threading.Tasks.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Helpers.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Mvc.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Optimization.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Razor.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.WebPages.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.WebPages.Razor.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\WebActivatorEx.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\WebGrease.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\EntityFramework.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\EntityFramework.SqlServer.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Client.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Common.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.OrmLite.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.OrmLite.SqlServer.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Text.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Buffers.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Memory.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Numerics.Vectors.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Threading.Tasks.Extensions.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Helpers.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Mvc.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Optimization.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.Razor.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.WebPages.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Web.WebPages.Razor.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Antlr3.Runtime.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.AssemblyReference.cache
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Configuration.ConfigurationManager.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Linq.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Linq.Expressions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Security.AccessControl.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Security.Cryptography.ProtectedData.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Security.Permissions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Security.Principal.Windows.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Text.Encodings.Web.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.ValueTuple.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\ServiceStack.Interfaces.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Configuration.ConfigurationManager.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Security.AccessControl.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Security.Permissions.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Security.Principal.Windows.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.Text.Encodings.Web.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\System.ValueTuple.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.Owin.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.Owin.Security.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Owin.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.Owin.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.Owin.Security.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\My Project\HUONG_DICH_VU_WebAPI\WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Owin.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Owin.Security.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Owin.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Configuration.ConfigurationManager.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Linq.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Linq.Expressions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.AccessControl.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Cryptography.ProtectedData.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Permissions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Principal.Windows.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Text.Encodings.Web.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.ValueTuple.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Owin.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Owin.Security.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ServiceStack.Interfaces.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Configuration.ConfigurationManager.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.AccessControl.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Permissions.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Principal.Windows.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Text.Encodings.Web.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.ValueTuple.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\WEB_API.dll.config
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\WEB_API.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\WEB_API.pdb
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\csc.exe
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\csc.rsp
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\csi.exe
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\csi.rsp
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Globalization.Calendars.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Net.Http.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Net.Sockets.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\vbc.exe
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Antlr3.Runtime.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Azure.Core.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Azure.Identity.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\EntityFramework.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Data.SqlClient.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Identity.Client.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Owin.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Owin.Security.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Web.Infrastructure.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Owin.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Client.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Common.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Interfaces.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.OrmLite.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Text.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Swashbuckle.Core.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Buffers.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Configuration.ConfigurationManager.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Memory.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Numerics.Vectors.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Security.AccessControl.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Security.Cryptography.ProtectedData.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Security.Permissions.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Security.Principal.Windows.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Text.Encodings.Web.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Text.Json.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Threading.Tasks.Extensions.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.ValueTuple.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Helpers.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Http.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Mvc.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Optimization.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Razor.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.WebPages.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.WebPages.Razor.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\WebActivatorEx.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\WebGrease.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Azure.Core.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Azure.Identity.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\EntityFramework.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\EntityFramework.SqlServer.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Data.SqlClient.pdb
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Data.SqlClient.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Identity.Client.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Owin.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Owin.Security.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Client.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Common.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Interfaces.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.OrmLite.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.OrmLite.SqlServer.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ServiceStack.Text.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Buffers.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Configuration.ConfigurationManager.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Memory.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Numerics.Vectors.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Security.AccessControl.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Security.Permissions.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Security.Principal.Windows.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Text.Encodings.Web.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Text.Json.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Threading.Tasks.Extensions.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.ValueTuple.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Helpers.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Http.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Mvc.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Optimization.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.Razor.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.WebPages.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\System.Web.WebPages.Razor.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Antlr3.Runtime.pdb
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.AssemblyReference.cache
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+C:\HDV_WEB_API_Offcial\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Win32.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\netstandard.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.AppContext.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Collections.Concurrent.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Collections.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Collections.NonGeneric.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Collections.Specialized.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.ComponentModel.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.ComponentModel.EventBasedAsync.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.ComponentModel.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.ComponentModel.TypeConverter.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Console.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Data.Common.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.Contracts.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.Debug.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.FileVersionInfo.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.Process.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.StackTrace.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.Tools.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.TraceSource.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Diagnostics.Tracing.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Drawing.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Dynamic.Runtime.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Globalization.Calendars.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Globalization.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Globalization.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.Compression.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.Compression.ZipFile.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.FileSystem.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.FileSystem.DriveInfo.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.FileSystem.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.FileSystem.Watcher.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.IsolatedStorage.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.MemoryMappedFiles.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.Pipes.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IO.UnmanagedMemoryStream.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Linq.Parallel.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Linq.Queryable.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Http.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.NameResolution.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.NetworkInformation.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Ping.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Requests.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Security.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.Sockets.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.WebHeaderCollection.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.WebSockets.Client.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Net.WebSockets.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.ObjectModel.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Reflection.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Reflection.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Reflection.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Resources.Reader.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Resources.ResourceManager.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Resources.Writer.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.Handles.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.InteropServices.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.Numerics.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.Serialization.Formatters.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.Serialization.Json.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.Serialization.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Runtime.Serialization.Xml.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Claims.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Cryptography.Algorithms.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Cryptography.Csp.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Cryptography.Encoding.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Cryptography.Primitives.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Cryptography.X509Certificates.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.Principal.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Security.SecureString.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Text.Encoding.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Text.Encoding.Extensions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Text.RegularExpressions.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.Overlapped.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.Tasks.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.Tasks.Parallel.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.Thread.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.ThreadPool.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Threading.Timer.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Xml.ReaderWriter.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Xml.XDocument.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Xml.XmlDocument.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Xml.XmlSerializer.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Xml.XPath.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Xml.XPath.XDocument.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Azure.Core.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Azure.Identity.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Data.SqlClient.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Identity.Client.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Logging.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Text.Json.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Azure.Core.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Azure.Identity.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Data.SqlClient.pdb
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Data.SqlClient.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Identity.Client.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Logging.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\System.Text.Json.xml
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\WEB_API\WEB_API\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\web_api\WEB_API\bin\System.Web.Cors.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\web_api\WEB_API\bin\System.Web.Http.Cors.dll
+D:\University\HK8 2021-2022\HƯỚNG DỊCH VỤ\Project\web_api\WEB_API\bin\System.Web.Http.Cors.xml
