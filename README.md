@@ -1,4 +1,4 @@
-# Resful API - SHOP
+# Resful API - PTITHCM
 **Web API for Buid Android App Shop mobile with Java**
 
 
